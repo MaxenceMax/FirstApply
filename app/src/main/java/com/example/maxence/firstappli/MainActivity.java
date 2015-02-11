@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
                 }
                 else if(i==1)
                 {
-                    mTextView.setText("PIPI");
+                    mTextView.setText("POPO");
                     i--;
                 }
             }
